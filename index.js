@@ -23,6 +23,5 @@ function destructivelyRemoveFirstKitten(){
 
 function appendKitten(name){
   var newkit = kittens[] + [name]
-  console.log(newkit)
   return newkit
 }
